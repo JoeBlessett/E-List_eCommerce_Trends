@@ -20,4 +20,14 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 
 ## Product Trends
 ## Loyaty Program
+
+The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
+
+Looking into our marketing efforts and how it translates to loyalty program signups:
+
+- The direct marketing channel has the highest number of loyalty participants: 23.5K signups (40% signup rate)
+- The email marketing channel has the highest average signup rate: 59% signup rate (~8K signups)
+
+Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with DotDash's customers.
+
 ## Refund Rates
