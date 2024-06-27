@@ -3,7 +3,7 @@ Sales trends analysis for e-commerce company
 
 # Company Bockground
 
-Founded at the end of 2018, DotDash provides customers around the world with high-tech electronics and accessories. With a wealth of order, customer, and geographic data, DotDash is now prioritizing analysis to uncover valuable insights. These insights will be pivotal in identifying opportunities for improvement and providing actionable next steps to support growth in a competitive landscape.
+Founded at the end of 2018, E-List provides customers around the world with high-tech electronics and accessories. With a wealth of order, customer, and geographic data, E-List is now prioritizing analysis to uncover valuable insights. These insights will be pivotal in identifying opportunities for improvement and providing actionable next steps to support growth in a competitive landscape.
 
 # Overview
 
