@@ -18,7 +18,23 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 
 ## Sales Trends
 
+### Yearly: 
+
+![image](https://github.com/user-attachments/assets/e38888be-ad7d-4a06-9308-5d98f594bb2f)
+
+2019 being EList first full fiscal year that provided a baseline for the company standard and benchmarks. 2020 and 2021 would be seen as slightly outliers years with a global pandemic that would result in a boom in our sales. 2020 being the year that brought in the highest total sales at $10 Million and an average order value of $300. 2021 brought in slightly similar numbers with a $9 Million year in sales with a $255 average order value, but a 40% increase in order volume from the previous year; going from a 33K order count to 35K. 2022 would be seen as a return to normalacy with sales being $4.9 Million, $230 average order value, and 21K order count. 
+
+Elist has seen an overall increase of 28% of sales growth when comparing 2022 to 2019 numbers while not only maintaining the average order value at $230, but also increasing the order count by the same amount. This shows an growth in customer audience year over year.
+
+### Seasonal:
+
+### Monthly:
+
 ## Product Trends
+
+### Seasonal:
+
+
 ## Loyalty Program
 
 The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers.
