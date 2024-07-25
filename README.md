@@ -28,6 +28,8 @@ Elist has seen an overall increase of 28% of sales growth when comparing 2022 to
 
 ### Seasonal:
 
+Q3 is objectively the strongest performing quarter across all metrics in a Year Over Year analysis for it's consistency of strong order amounts and sales. Quarters 1 and 4 have changed back-and-forth throughout the years. Q4 tends to have a strong order amount every year but it is not consistently the top in sales in any demographic or region. A question that would need to be asked is, are we wanting to focus on getting the performing quarters optimal or focus on the negative consistentcies of Q2? Q1 is successful from the holiday season and where we see the better numbers for sale and order count from non-loyalty customers (see Seasonal section detail for more details).
+
 ### Monthly:
 
 ## Product Trends
