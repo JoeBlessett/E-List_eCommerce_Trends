@@ -30,9 +30,15 @@ Elist has seen an overall increase of 28% of sales growth when comparing 2022 to
 
 Q3 is objectively the strongest performing quarter across all metrics in a Year Over Year analysis for it's consistency of strong order amounts and sales. Quarters 1 and 4 have changed back-and-forth throughout the years. Q4 tends to have a strong order amount every year but it is not consistently the top in sales in any demographic or region. A question that would need to be asked is, are we wanting to focus on getting the performing quarters optimal or focus on the negative consistentcies of Q2? Q1 is successful from the holiday season and where we see the better numbers for sale and order count from non-loyalty customers (see Seasonal section detail for more details).
 
-### Monthly:
-
 ## Product Trends
+
+### Overall:
+
+![image](https://github.com/user-attachments/assets/88ab22ce-9725-4354-9316-e2f4b3dbd476)
+
+Apple Airpods are Elist's most popular product by order count, comprising 45% of all orders (45K+). The 27in 4K Gaming Monitor is Elisth's top revenue generating product, generating almost $10M (35% of total sales). Paired with the Gaming Monitor and Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. 
+
+Importantly, Elist sees a significant amount of orders of the Samsung Charging Cable Pack (20%). Even though this product generates 2% of total sales, an opportunity to capture more value by offering a bundle version of this product, with a relevant device, exists.
 
 ### Seasonal:
 
@@ -46,7 +52,7 @@ Looking into our marketing efforts and how it translates to loyalty program sign
 - The direct marketing channel has the highest number of loyalty participants: 23.5K signups (40% signup rate)
 - The email marketing channel has the highest average signup rate: 59% signup rate (~8K signups)
 
-Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with DotDash's customers.
+Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with Elist's customers.
 
 ## Refund Rates
 
