@@ -55,9 +55,3 @@ Looking into our marketing efforts and how it translates to loyalty program sign
 Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with Elist's customers.
 
 ## Refund Rates
-
-# Recommendations
-
-## Loyalty Program
-
-To best serve Loyalty Program and performance Elist should invest into capturing conversion rate of non-loyalty to loyalty customers 
